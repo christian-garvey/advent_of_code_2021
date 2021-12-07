@@ -46,7 +46,7 @@ epsilon = []
 for i in no_1_list:
     print("i is...", i)
     if i > (len(list_binary)/2):
-    #print("gamma is 1")
+        #print("gamma is 1")
         gamma.append(1)
         #print("...so epsilon is 0")
         epsilon.append(0)
